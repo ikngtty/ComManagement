@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComManagement", "ComManagement\ComManagement.csproj", "{964F213A-0B65-4E5F-B1C9-4E24CB787919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComManagementTest", "ComManagementTest\ComManagementTest.csproj", "{2F0F3687-7A29-4C2C-B79F-72AF7A47D25B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964F213A-0B65-4E5F-B1C9-4E24CB787919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964F213A-0B65-4E5F-B1C9-4E24CB787919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964F213A-0B65-4E5F-B1C9-4E24CB787919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964F213A-0B65-4E5F-B1C9-4E24CB787919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F0F3687-7A29-4C2C-B79F-72AF7A47D25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F0F3687-7A29-4C2C-B79F-72AF7A47D25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F0F3687-7A29-4C2C-B79F-72AF7A47D25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F0F3687-7A29-4C2C-B79F-72AF7A47D25B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
