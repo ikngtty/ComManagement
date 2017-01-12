@@ -22,7 +22,7 @@ namespace Ikngtty.ComManagement
 		{
 			// Validate.
 			if (com == null) throw new ArgumentNullException();
-			if (!Marshal.IsComObject(com)) throw new ArithmeticException();
+			if (!Marshal.IsComObject(com)) throw new ArgumentException();
 			
 			// Add.
 			this.coms.Push(com);
