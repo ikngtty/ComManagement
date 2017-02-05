@@ -1,11 +1,14 @@
 # ComManagement
 COM object management objects to reduce the annoying "ReleaseComObject" steps.
 
-## Attension
+## Attention
 * This is my idea memo, so this program is incomplete. Many necessarry features aren't implemented.
+
+## Environment
+* This program needs .NET framework 4.0 or later.
 * This program needs Microsoft.Office.Interop.Excel.dll.
-* This program is tested with NUnit.
-* This program is created with Sharp Develop.
+* This program is tested with NUnit 2.6.4.
+* This program is created with Sharp Develop 5.1.
 
 ## Example of use
 ```cs
